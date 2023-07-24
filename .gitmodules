@@ -1,6 +1,6 @@
 [submodule "native/zcash-sync"]
 	path = native/zcash-sync
-	url = https://github.com/hhanh00/zcash-sync.git
+	url = https://github.com/ZcashFoundation/zcash-sync.git
 [submodule "native/zcash-params"]
 	path = native/zcash-params
 	url = https://github.com/hhanh00/zcash-params.git
@@ -15,4 +15,4 @@
 	url = https://github.com/hhanh00/flutter_zxing.git
 [submodule "orchard"]
 	path = orchard
-	url = https://github.com/hhanh00/orchard.git
+	url = https://github.com/ZcashFoundation/orchard.git
